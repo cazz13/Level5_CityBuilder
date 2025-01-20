@@ -10,12 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 43c6aa58b081a4a4e82c107ff3c2a5a9, type: 3}
-  m_Name: Road
+  m_Name: Edificio
   m_EditorClassIdentifier: 
-  cost: 1
+  cost: 50
   costPerTurn: 1
-  prefab: {fileID: 7343362035831810236, guid: 5366800f87d95bd44b4e3fc6e8a01c39, type: 3}
-  buildingMesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
-  population: 0
-  jobs: 0
-  food: 0
+  prefab: {fileID: 7343362035831810236, guid: 27f67a6b2c0ea0448b51065ceba4309b, type: 3}
+  population: 7
+  jobs: 7
+  food: 9
+  felicidad: 5
+  espiritu: 5
